@@ -1,6 +1,6 @@
 1. normal
 2. normal
-3. delete
+3. add
 4. normal
 
 
